@@ -10,6 +10,10 @@ awesome list for flavour
 
 * [libflavour - python](https://github.com/flavours/libflavour) - reference python implementation
 
+## Clients
+
+* [cli](https://github.com/flavours/cli) - the command line client, written in node
+
 
 ## Supported Hosters
 
