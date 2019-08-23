@@ -1,9 +1,6 @@
 # awesome-flavour
 awesome list for flavour
 
-## Tutorials
-
-* stay tuned
 ## Getting started with...
 
 * [diviocloud-addon](https://github.com/flavours/getting-started-with-diviocloud-addon) 
