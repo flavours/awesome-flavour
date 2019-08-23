@@ -21,6 +21,7 @@ awesome list for flavour
 
 ## Platforms / Addon Managers
 
+* [bash](https://github.com/flavours/fam-bash) 
 * [base flavour](https://github.com/flavours/fam-flavour) 
 * [diviocloud-addon](https://github.com/flavours/fam-diviocloud-addon) 
 * [php](https://github.com/flavours/fam-php) 
