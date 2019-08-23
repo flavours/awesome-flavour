@@ -6,8 +6,8 @@ awesome list for flavour
 * stay tuned
 ## Getting started with...
 
-* [php](https://github.com/flavours/getting-started-with-php) 
 * [diviocloud-addon](https://github.com/flavours/getting-started-with-diviocloud-addon) 
+* [php](https://github.com/flavours/getting-started-with-php) 
 
 
 ## Native implementations and libraries
@@ -21,10 +21,10 @@ awesome list for flavour
 
 ## Platforms / Addon Managers
 
-* [flavour base](https://github.com/flavours/fam-flavour) 
+* [base flavour](https://github.com/flavours/fam-flavour) 
+* [diviocloud-addon](https://github.com/flavours/fam-diviocloud-addon) 
 * [php](https://github.com/flavours/fam-php) 
 * [php-laravel](https://github.com/flavours/fam-php-laravel) 
-* [diviocloud-addon](https://github.com/flavours/fam-diviocloud-addon) 
 
 ## Supported Hosters
 
