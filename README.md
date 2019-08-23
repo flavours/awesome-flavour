@@ -4,6 +4,10 @@ awesome list for flavour
 ## Tutorials
 
 * stay tuned
+## Getting started with...
+
+* [php](https://github.com/flavours/getting-started-with-php) 
+* [diviocloud-addon](https://github.com/flavours/getting-started-with-diviocloud-addon) 
 
 
 ## Native implementations and libraries
@@ -14,6 +18,13 @@ awesome list for flavour
 
 * [cli](https://github.com/flavours/cli) - the command line client, written in node
 
+
+## Platforms / Addon Managers
+
+* [flavour base](https://github.com/flavours/fam-flavour) 
+* [php](https://github.com/flavours/fam-php) 
+* [php-laravel](https://github.com/flavours/fam-php-laravel) 
+* [diviocloud-addon](https://github.com/flavours/fam-diviocloud-addon) 
 
 ## Supported Hosters
 
