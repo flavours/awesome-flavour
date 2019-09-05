@@ -1,7 +1,13 @@
 # awesome-flavour
 awesome list for flavour
 
-## Getting started with...
+## Documentation and general information
+
+* [main website](https://www.flavours.dev)
+* [addon registry](https://addons.flavours.dev)
+
+
+## Example projects: Getting started with...
 
 * [aldryn](https://github.com/flavours/getting-started-with-aldryn) 
 * [php](https://github.com/flavours/getting-started-with-php) 
