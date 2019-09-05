@@ -3,7 +3,7 @@ awesome list for flavour
 
 ## Getting started with...
 
-* [diviocloud-addon](https://github.com/flavours/getting-started-with-diviocloud-addon) 
+* [aldryn](https://github.com/flavours/getting-started-with-aldryn) 
 * [php](https://github.com/flavours/getting-started-with-php) 
 
 
@@ -18,9 +18,9 @@ awesome list for flavour
 
 ## Platforms / Addon Managers
 
+* [aldryn](https://github.com/flavours/fam-aldryn) 
 * [bash](https://github.com/flavours/fam-bash) 
 * [base flavour](https://github.com/flavours/fam-flavour) 
-* [diviocloud-addon](https://github.com/flavours/fam-diviocloud-addon) 
 * [php](https://github.com/flavours/fam-php) 
 * [php-laravel](https://github.com/flavours/fam-php-laravel) 
 
