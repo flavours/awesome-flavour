@@ -24,6 +24,6 @@ awesome list for flavour
 * [php](https://github.com/flavours/fam-php) 
 * [php-laravel](https://github.com/flavours/fam-php-laravel) 
 
-## Supported Hosters
+## Supported platforms
 
-* [divio cloud](https://www.divio.com) - Host anything with far reaching language support.
+* [divio cloud](https://www.divio.com)
