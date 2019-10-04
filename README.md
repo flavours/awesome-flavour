@@ -33,3 +33,7 @@ awesome list for flavour
 ## Supported platforms
 
 * [divio cloud](https://www.divio.com)
+
+## Media and Press
+
+* [kit])(https://github.com/flavours/mediakit)
