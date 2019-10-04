@@ -36,4 +36,4 @@ awesome list for flavour
 
 ## Media and Press
 
-* [kit])(https://github.com/flavours/mediakit)
+* [kit](https://github.com/flavours/mediakit)
